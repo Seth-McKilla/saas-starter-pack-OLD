@@ -1,34 +1,49 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 👋 Welcome to the SaaS starter pack!
 
-## Getting Started
+This sole mission of this project is to make turning your next SaaS idea into a reality as quick and painless as possible. The opinionated tech stack below contains the best tools I've found to rapidly prototype a fully Typesafe MVP.
 
-First, run the development server:
+<br />
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+# Tech Stack
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 📃 Language: [Typescript](https://www.typescriptlang.org/docs/) & [React](https://reactjs.org/docs/getting-started.html)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### 💻 Framework: [NextJS v13](https://beta.nextjs.org/docs)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+### 💅 Styling: [Tailwindcss](https://tailwindcss.com/docs/installation)
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+### 🏢 Database: [PlanetScale](https://planetscale.com/docs)
 
-## Learn More
+### 🗺️ ORM: [Prisma](https://www.prisma.io/nextjs)
 
-To learn more about Next.js, take a look at the following resources:
+### 🔒 Authentication: [NextAuth](https://next-auth.js.org/getting-started/example)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 📄 Forms & Validation: [React Hook Form](https://react-hook-form.com/) & [Zod](https://zod.dev/)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### ☁️ Hosting: [Vercel](https://vercel.com/docs)
 
-## Deploy on Vercel
+### 💸 Payments: [Stripe](https://stripe.com/docs/api?lang=node)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### ✉️ Email Marketing: [Sendgrid](https://docs.sendgrid.com/api-reference/how-to-use-the-sendgrid-v3-api/authentication)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<br />
+
+# Installation
+
+## Prerequisites
+
+### 1. A package manager, [pnpm](https://pnpm.io/installation) is highly recommended!
+
+### 2. [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) & [GitHub Account](https://github.com/)
+
+### 3. [Vercel Account](https://vercel.com/login) & [Vercel CLI](https://vercel.com/docs/cli)
+
+<br />
+
+## Launch the project 🚀
+
+Placeholder for one-click deploy to Vercel button
+
+<br />
+
+## That's it! Best of luck on your next endeavor!

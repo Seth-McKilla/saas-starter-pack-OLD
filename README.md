@@ -1,30 +1,6 @@
 # 👋 Welcome to the SaaS starter pack!
 
-This sole mission of this project is to make turning your next SaaS idea into a reality as quick and painless as possible. The opinionated tech stack below contains the best tools I've found to rapidly prototype a fully Typesafe MVP.
-
-<br />
-
-# Tech Stack
-
-### 📃 Language: [Typescript](https://www.typescriptlang.org/docs/) & [React](https://reactjs.org/docs/getting-started.html)
-
-### 💻 Framework: [NextJS v13](https://beta.nextjs.org/docs)
-
-### 💅 Styling: [Tailwindcss](https://tailwindcss.com/docs/installation)
-
-### 🏢 Database: [PlanetScale](https://planetscale.com/docs)
-
-### 🗺️ ORM: [Prisma](https://www.prisma.io/nextjs)
-
-### 🔒 Authentication: [NextAuth](https://next-auth.js.org/getting-started/example)
-
-### 📄 Forms & Validation: [React Hook Form](https://react-hook-form.com/) & [Zod](https://zod.dev/)
-
-### ☁️ Hosting: [Vercel](https://vercel.com/docs)
-
-### 💸 Payments: [Stripe](https://stripe.com/docs/api?lang=node)
-
-### ✉️ Email Marketing: [Sendgrid](https://docs.sendgrid.com/api-reference/how-to-use-the-sendgrid-v3-api/authentication)
+The singular purpose of this project is to make turning your next SaaS idea into a reality as quick and painless as possible. The opinionated tech stack below contains the best tools I've found to rapidly prototype a fully Typesafe MVP.
 
 <br />
 
@@ -47,3 +23,27 @@ Placeholder for one-click deploy to Vercel button
 <br />
 
 ## That's it! Best of luck on your next endeavor!
+
+<br />
+
+# Tech Stack & Resources
+
+### 📃 Language: [Typescript](https://www.typescriptlang.org/docs/) & [React](https://reactjs.org/docs/getting-started.html)
+
+### 💻 Framework: [NextJS v13](https://beta.nextjs.org/docs)
+
+### 💅 Styling: [Tailwindcss](https://tailwindcss.com/docs/installation)
+
+### 🏢 Database: [PlanetScale](https://planetscale.com/docs)
+
+### 🗺️ ORM: [Prisma](https://www.prisma.io/nextjs)
+
+### 🔒 Authentication: [NextAuth](https://next-auth.js.org/getting-started/example)
+
+### 📄 Forms & Validation: [React Hook Form](https://react-hook-form.com/) & [Zod](https://zod.dev/)
+
+### ☁️ Hosting: [Vercel](https://vercel.com/docs)
+
+### 💸 Payments: [Stripe](https://stripe.com/docs/api?lang=node)
+
+### ✉️ Email Marketing: [Sendgrid](https://docs.sendgrid.com/api-reference/how-to-use-the-sendgrid-v3-api/authentication)
